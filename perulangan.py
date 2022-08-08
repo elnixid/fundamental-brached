@@ -5,6 +5,7 @@ Implementasi Perulangan
 Buat perulangan untuk jumlah buku yang dibaca point satu dan dua
 
 """
+print("Pengulangan dengan for")
 jumlah_buku = 10
 print('Ibu berkata : "Baca kesepuluh bukumu"')
 jumlah_buku_yang_sudah_dibaca = 0
