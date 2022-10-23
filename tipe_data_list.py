@@ -53,5 +53,10 @@ daftar_buku.pop(-1)
 for i in range(0, len(daftar_buku)):
     print(daftar_buku[i])
 
-print('\nBuku selanjutnya')
+# print('\nBuku selanjutnya')
+print('\nPerintah del')
+daftar_buku = ['Seven Habit','Blink', 'First Thinks First', 'Rich Dad']
+del daftar_buku[0]
+for i in range(0, len(daftar_buku)):
+    print(daftar_buku[i])
 
